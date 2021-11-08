@@ -1,0 +1,44 @@
+#gym{
+color:red;
+width:100%;
+padding-top:32px;
+text-align:center;
+font-size:5em;
+font-family:Snap ITC;
+}
+
+body {
+ background-image:url("2.jpg");
+ background-position:absolute;
+ background-size:120vh;
+ position:absolute;
+}
+
+h1{
+	font-family:merlin;
+	font-size:23px;
+}
+.hello{
+text-align:center;
+text-decoration:underline overline;
+font-size:3em;
+
+}
+
+.exercise-name{
+	font-family:Magneto;
+	color:red;
+	text-decoration:underline;
+	font-size:4rem; 
+}
+.heading{
+	text-decoration:underline dotted red;
+	font-size:4em;
+}
+.set-name{
+	font-family:Rockwell;
+}
+
+.dabba{
+	border: 3px;
+}
