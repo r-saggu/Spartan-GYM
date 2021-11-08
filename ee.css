@@ -1,0 +1,57 @@
+#gym{
+color:red;
+width:100%;
+padding-top:32px;
+text-align:center;
+font-size:5em;
+font-family:Snap ITC;
+}
+
+body {
+ background-image:url("2.jpg");
+ background-position:center;
+ background-size:cover;
+ background-attachment:fixed;
+
+
+}
+
+
+.hello{
+text-align:center;
+text-decoration:underline overline;
+font-size:5em;
+padding-top: 5%;
+color:#19AFB6 ;
+
+}
+
+.exercise-name{
+	font-family:MS Serif;
+	color:red;
+	text-decoration:underline;
+	font-size:2.8em; 
+}
+.heading{
+	text-decoration:underline dotted red;
+	font-size:3.5em;
+	padding-top:10%;
+	font-family:broadway;
+	padding-left:15px;
+	color:white;
+}
+.set-name{
+	font-family:Chiller;
+	font-size: 2.3em;
+	font-weight:bold;
+	font-style:italic; 
+	color: #E7AD2D
+}
+
+.dabba{
+	border: 3px;
+}
+
+.next{
+	color: white;
+}
